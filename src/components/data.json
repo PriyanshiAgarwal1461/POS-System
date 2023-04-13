@@ -1,0 +1,33 @@
+{
+    "products":[
+        {
+        "name": "COMPUTER",
+        "price": "130",
+        "category": "computers",
+        "description": "",
+        "image": "https://i0.wp.com/www.alphr.com/wp-content/uploads/2019/12/how-do-you-find-your-amazon-url.jpg?fit=1000%2C666&ssl=1"
+        },
+        {
+        "name": "SWEATER",
+        "price": "1",
+        "category": "Clothing",
+        "description": "fashion, clothes , sweater, wool, cardigan,...",
+        "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71SODLfaurL._UY550_.jpg"
+        },
+        {
+        "name": "TIE",
+        "price": "46",
+        "category": "Clothing",
+        "description": "fashion, tie, clothes, accessory , accessoire,...",
+        "image": "https://i.pinimg.com/736x/26/2d/8c/262d8c1495710c20858678674da143f7--wedding-men-wedding-bows.jpg"
+        },
+        {
+        "name": "JACKET",
+        "price": "190",
+        "category": "Clothing",
+        "description": "winter jacket ",
+        "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8amFja2V0fGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+        }
+        ]
+  }
+  
