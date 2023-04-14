@@ -11,14 +11,14 @@
         "name": "SWEATER",
         "price": "100",
         "category": "Clothing",
-        "description": "fashion, clothes , sweater, wool, cardigan,...",
+        "description": "fashion, clothes,... ",
         "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71SODLfaurL._UY550_.jpg"
         },
         {
         "name": "TIE",
         "price": "46",
         "category": "Clothing",
-        "description": "fashion, tie, clothes, accessory , accessoire,...",
+        "description": "fashion, tie,...",
         "image": "https://i.pinimg.com/736x/26/2d/8c/262d8c1495710c20858678674da143f7--wedding-men-wedding-bows.jpg"
         },
         {
