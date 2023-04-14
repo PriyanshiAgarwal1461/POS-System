@@ -2,14 +2,14 @@
     "products":[
         {
         "name": "COMPUTER",
-        "price": "130",
+        "price": "1300",
         "category": "computers",
         "description": "",
         "image": "https://i0.wp.com/www.alphr.com/wp-content/uploads/2019/12/how-do-you-find-your-amazon-url.jpg?fit=1000%2C666&ssl=1"
         },
         {
         "name": "SWEATER",
-        "price": "1",
+        "price": "100",
         "category": "Clothing",
         "description": "fashion, clothes , sweater, wool, cardigan,...",
         "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71SODLfaurL._UY550_.jpg"
