@@ -2,7 +2,6 @@ import React from "react";
 import Modal from "react-modal";
 
 export const Receipt = ({ setIsOpen, totalItem, isOpen, vat, total, discount, selectedProducts, setSelectedProducts, setDiscount, setVat }) => {
-    console.log("Ssss", isOpen, selectedProducts)
 
     const closeModal = () => {
         setIsOpen(false);
